@@ -75,7 +75,7 @@ credit-card fraud detection/
 - Matplotlib
 - scikit-learn
 
-To install the dependencies:
-
-```bash
-pip install -r requirements.txt
+📄 License
+This project is for educational purposes only. Refer to the dataset license on Kaggle.
+✍️ Author
+Aaminah Binte Farooq – 2025
